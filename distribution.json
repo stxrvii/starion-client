@@ -1,0 +1,12 @@
+﻿{
+  "files": [
+    {
+      "name": "starion-client-1.0.6.jar",
+      "path": "mods/",
+      "url": "https://github.com/stxrvii/starion-client/releases/download/v1.0.0/starion-client-1.0.6.jar",
+      "sha1": "22cccedfe331fbd049feac65d38c153664d1045d",
+      "size": 48999951,
+      "type": "MOD"
+    }
+  ]
+}
